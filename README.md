@@ -1,6 +1,5 @@
 ## Hi, I'm Kauê Paiva 👋
-Technical High School Student at the Federal Institute of Education, Science, and Technology of Rio Grande do Sul - Campus Osório.
-
+Integrated Vocational High School Student in Information Technology at the Federal Institute of Education, Science, and Technology of Rio Grande do Sul - Campus Osório.
 ---
 
 ## Main projects I developed or participated in at the institution:
