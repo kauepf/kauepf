@@ -10,7 +10,7 @@ Integrated Vocational High School Student in Information Technology at the Feder
 
 ---
 
-Programming languages and:
+Programming languages and technologies:
 <br>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
